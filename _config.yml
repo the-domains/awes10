@@ -1,0 +1,14 @@
+layout_spectrum: 0.7271846381481737
+typography_spectrum: 0.19178099744021893
+color:
+  brandStrength: 0.8575390288606286
+  lightness: 0.2949788528494537
+  saturation: 0.5026754436548799
+  rhythmicContrast: 0.22644544253125787
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: awes10
